@@ -1,0 +1,10 @@
+pyvenv.cfg
+.env
+.env_plain_txt
+CACHEDIR.TAG
+include/
+lib/
+bin/
+pyvenv.cfg
+obfuscated
+teste/
